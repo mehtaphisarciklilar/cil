@@ -13,3 +13,5 @@ password.txt
 venv/
 env/
 .venv
+.DS_Store
+.idea/
