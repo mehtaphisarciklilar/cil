@@ -9,3 +9,9 @@ node_modules/
 cloudinary_python.txtpassword.txt
 password.txt
 ._*
+.venv/
+venv/
+env/
+.venv
+.DS_Store
+.idea/

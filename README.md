@@ -12,3 +12,6 @@ I am trying this using PyCharm in preparation
 for my Python project
 
 Not sure about this set of additional files
+
+Continue from where I left off
+
